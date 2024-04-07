@@ -1,2 +1,2 @@
-# prasanna1970.github.io
+#.github.io
 don't be sorry , try to be better
